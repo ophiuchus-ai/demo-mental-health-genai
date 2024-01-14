@@ -1,3 +1,15 @@
+---
+title: Demo
+emoji: 🐱
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: 4.13.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # Mental Health Nudging with Generative AI Demo
 
 A demo for the [Existing Use of AI & ML for Health Innovations in Africa and Globally](https://healthinteltrust.com/portfolios/project-health-hack-naija-1-0/) hackathon.
