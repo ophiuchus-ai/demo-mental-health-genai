@@ -1,5 +1,5 @@
 ---
-title: Demo
+title: demo-mental-health-genai
 emoji: 🐱
 colorFrom: indigo
 colorTo: blue
