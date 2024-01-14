@@ -13,7 +13,7 @@ def run_demo():
         with gr.Row():
 
             # input features
-            with gr.Column(scale=1):
+            with gr.Column(scale=2):
 
                 # demographics
                 gender = gr.Radio(label='Gender', value='N/A',
