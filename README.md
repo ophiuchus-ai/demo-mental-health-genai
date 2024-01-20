@@ -1,8 +1,8 @@
 ---
 title: demo-mental-health-genai
-emoji: 🐱
-colorFrom: indigo
-colorTo: blue
+emoji: 🧠💬💜
+colorFrom: pink
+colorTo: purple
 sdk: gradio
 sdk_version: 4.13.0
 app_file: app.py
